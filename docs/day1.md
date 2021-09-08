@@ -1,7 +1,7 @@
 ---
 title: Day 1
 output: html_document
-author: "Nate VanDyk"
+authors: "Nate VanDyk & Cleyde Murillo Jr"
 ---
 
 # Example Text
