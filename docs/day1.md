@@ -1,6 +1,7 @@
 ---
 title: Day 1
 output: html_document
+author: "Nate VanDyk"
 ---
 
 # Example Text
